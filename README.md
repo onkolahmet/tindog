@@ -8,4 +8,4 @@ You can preview from here -> https://onkolahmet.github.io/tindog/
 - [Font awesome](https://fontawesome.com)
 - [Google fonts](https://fonts.google.com)
 ### Inspired from:
--[London App Brewery](https://github.com/londonappbrewery)
+- [London App Brewery](https://github.com/londonappbrewery)
